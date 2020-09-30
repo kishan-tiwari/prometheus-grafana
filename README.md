@@ -1,1 +1,2 @@
 # PrometheusGrafanaDashboardJSON
+- Dashboard JSON File
