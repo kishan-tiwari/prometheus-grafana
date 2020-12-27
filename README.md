@@ -1,4 +1,4 @@
-# PrometheusGrafanaDashboardJSON
+# Prometheus Grafana Dashboard JSON
 - Dashboard JSON File
 
 # Reference Links
@@ -11,4 +11,3 @@
 - https://medium.com/@valyala/promql-tutorial-for-beginners-9ab455142085
 - https://devconnected.com/monitoring-disk-i-o-on-linux-with-the-node-exporter/
 - https://prometheus.io/docs/prometheus/latest/getting_started/
--
